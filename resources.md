@@ -8,6 +8,7 @@
 3. [Resistance, Habit Change and the #100DaysOfCode Movement](https://studywebdevelopment.com/100-days-of-code.html) StudyWebDevelopment Blog
 
 ### Podcasts
+1. [Flow state podcast with Bobby Lyte](https://open.spotify.com/show/4IssY4XjHXdpTNOzpaeyxh?si=07ed541dd0914a69)
 
 # Additional Resources on the #100DaysOfCode
 
