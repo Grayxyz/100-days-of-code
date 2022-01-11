@@ -20,3 +20,12 @@ Javascript: As it always goes with code, it's the small things that get you stuc
 Houdini: thoughts? I'm ready to be done with these huge cache files and endless ROP shit 8 and focus on modeling and real-time in UE5. It is nice that Karma is production ready though.
 
 **Link to work:** [Farenheit to Celsius Calculator] https://github.com/Grayxyz/100-days-of-code/blob/master/day_1_FtoC_calculator/FarenheitToCelsius.html
+
+### Day 2: January 10 2022 
+
+**Today's Progress**: 
+Started calculator project. Got hung up on some new CSS I'm not familiar with. Setup HTML and working through CSS grid styling for calculator. Also looked into Swift playgrounds on the iPad but decided to stay focused on Javascript for now. Watched an overview on the structure of javascript and learned about some updated syntax since I last studied it
+**Thoughts:** 
+Today was kind of a day off anyway but I'm more behind than I thought I was in terms of new functionality in CSS and new syntax in Javascript. Also, Still struggling with git. I think I need to sit down with a full video or something just on using git and what all the terms mean
+
+**Link to work:** [Javasript Calculator] https://github.com/Grayxyz/Calculator
