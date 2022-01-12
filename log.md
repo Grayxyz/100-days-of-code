@@ -29,3 +29,16 @@ Started calculator project. Got hung up on some new CSS I'm not familiar with. S
 Today was kind of a day off anyway but I'm more behind than I thought I was in terms of new functionality in CSS and new syntax in Javascript. Also, Still struggling with git. I think I need to sit down with a full video or something just on using git and what all the terms mean
 
 **Link to work:** [Javasript Calculator] https://github.com/Grayxyz/Calculator
+
+### Day 3: January 12 2022 
+
+**Today's Progress**: 
+Completed the javascript calculator tutorial at https://www.youtube.com/watch?v=j59qQ7YWLxw&t=595s
+completed w3c tutorial on JavaScript Classes
+completed w3C tutorial on .splice() and its arguments
+setup w3c space (will probably move to my own site instead)
+
+**Thoughts:** 
+Yeah, missed yesterday so I made up for it by doing a whole day of Javascript instead of just an hour. Had difficulty with the display on the calculator not showing up but managed to track it down to a missing ]. Need to remember not to get overly reliant on VS code's assistance as it doesn't always add closing brackets. otherwise, the only other issue was that I kind of got ahead of the tutorial wondering why the all clear wasn't working. I just needed to watch further to add an else statement but I'm kind of proud that I figured that out before getting to it in the video
+
+**Link to work:** [Javasript Calculator] https://github.com/Grayxyz/Calculator, https://drewmacstudio.w3spaces.com/jsCalculator/calculator.html
