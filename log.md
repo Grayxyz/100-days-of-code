@@ -42,3 +42,19 @@ setup w3c space (will probably move to my own site instead)
 Yeah, missed yesterday so I made up for it by doing a whole day of Javascript instead of just an hour. Had difficulty with the display on the calculator not showing up but managed to track it down to a missing ]. Need to remember not to get overly reliant on VS code's assistance as it doesn't always add closing brackets. otherwise, the only other issue was that I kind of got ahead of the tutorial wondering why the all clear wasn't working. I just needed to watch further to add an else statement but I'm kind of proud that I figured that out before getting to it in the video
 
 **Link to work:** [Javasript Calculator] https://github.com/Grayxyz/Calculator, https://drewmacstudio.w3spaces.com/jsCalculator/calculator.html
+
+### Day 4: January 13 2022 
+
+**Today's Progress**: 
+Started personal portfolio site. Caught up on semantic elements <header><section> etc. Built HTML basis for home page. Watched video on python for web development. 
+
+**Thoughts:** 
+Less progress today but yesterday was probably good enough for a week. Starting back up with basic portfolio site like I used to make. Some features I'd like to add:
+
+change header imeage on load (javascript)
+nav bar that hides in hamburger menu on scroll down and appears on scroll up 
+Template for project pages
+contact form (python?)
+
+
+**Link to work:** No link today :(
