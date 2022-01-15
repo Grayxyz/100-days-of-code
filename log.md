@@ -58,3 +58,15 @@ contact form (python?)
 
 
 **Link to work:** No link today :(
+
+### Day 5: January 14 2022 
+
+**Today's Progress**: 
+Starting work on a dynamic hero image that changes on load. Researched JSON syntax, retrieving data from external files, JSON.parse() and JSON.stringify
+Not sure yet how to use an array, if I use myArray[0].name or what. Stored sample images and titles in JSON array file. Tomorrow, figure out how to use JSON array, randomly select image link and insnert it into hero style on load.
+
+**Thoughts:** 
+Let's stick with Javascript for now and save Python for Houdini, when the sim is done rendering and I can take that long houdini python class. For now I need to look at more advanced ways of storing and retrieving data for javascript. 
+
+
+**Link to work:** No link today :(
