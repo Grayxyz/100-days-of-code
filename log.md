@@ -70,3 +70,27 @@ Let's stick with Javascript for now and save Python for Houdini, when the sim is
 
 
 **Link to work:** No link today :(
+
+### Day 6: January 16 2022 
+
+**Today's Progress**: 
+Rebuilt x,z axis ramp control in VEX. Couldn't get color working in master attribute wrangle using VEX to pull from master controll null. Used color and linked other color nodes to main via relative references. Color on makrer caps didn't work on the final model though after recombined in the end. 
+
+**Thoughts:** 
+I need to get started with Python and consolidate languages. I use VEX just infrequently enough to constantly be relearning the same things. The variable declarations versus attribute declarations still confuse me, as do the parameters certain attributes are asking for. like why need @curveu? And why have @scale and @pscale be different? Does @pscale really have to be uniform? could we not just have one vector attribute and consistently set vector values like @scale set (1,1,1);
+
+Anyway, slowed me down. Reinvented the wheel. Need to get Python running so I can use it in both web and in Houdini. 
+
+
+**Link to work:** No link today :(
+
+### Day 7: January 17 2022 
+
+**Today's Progress**: 
+Connected portfolio to git repository, researched hosting. Moving forward with github pages for now. Studied Apple shortcuts and runnign javascript on pages to scrape. Not exactly standard scraping. 
+
+**Thoughts:** 
+Github is a pain in the ass. No idea why it acts like it's connected to a repository and syncing, when the repository doesn't exist. Then have to delete the entire folder and start over and still it seems clunky. Need to do a class or watch a video on push/pull/clone/commit/branch/remote/ etc.
+
+
+**Link to work:** No link today :(
