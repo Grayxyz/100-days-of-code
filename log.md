@@ -94,3 +94,14 @@ Github is a pain in the ass. No idea why it acts like it's connected to a reposi
 
 
 **Link to work:** No link today :(
+
+### Day 8: January 23 2022 
+
+**Today's Progress**: 
+built structure for javascript hero image slide show.
+
+**Thoughts:** 
+Missed a few days but back at it. I still can't get the JSON linking to work. No idea why. Going to have to try to stay simpler for now. I'm gping to add this project to my website.
+
+
+**Link to work:** No link today :(
