@@ -105,3 +105,14 @@ Missed a few days but back at it. I still can't get the JSON linking to work. No
 
 
 **Link to work:** No link today :(
+
+### Day 9: January 23 2022 
+
+**Today's Progress**: 
+Added homepage layout for portfolio site. Moved practice demos to 100days of code folder
+
+**Thoughts:** 
+Lots going on, video projects, 3D. haven't had much time to code. But I need to get the new portfolio site up fast and focus on HTML and CSS for now
+
+
+**Link to work:** 
