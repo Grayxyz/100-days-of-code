@@ -116,3 +116,19 @@ Lots going on, video projects, 3D. haven't had much time to code. But I need to 
 
 
 **Link to work:** 
+
+### Day 10: February 25 2022 
+
+**Today's Progress**: 
+progress for the last 3 days: Rebuilt portfolio website in static html and css. Used Marmoset's javascript API to add a 3D model viewer to project pages. Built out css variables for theme control. Created firefox-specific themes for unsupported CSS properties, specifically background-filter.
+
+created media queries for all templates to work on mobile devices
+
+**Thoughts:** 
+This will be a solid place to build out more back-end functionality as I work through the full stack course. Still need to add webkit properties for some things that aren't working in safari
+
+also need to resolve an issue with nav bar links not stacking correctly on narrower screens after adding more links
+
+
+**Link to work:** 
+https://grayxyz.github.io/drewmacstudio
