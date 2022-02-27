@@ -117,7 +117,18 @@ Lots going on, video projects, 3D. haven't had much time to code. But I need to 
 
 **Link to work:** 
 
-### Day 10: February 25 2022 
+### Day 10 February 18 2022 
+
+**Today's Progress**: 
+Completed  
+
+**Thoughts:** 
+Lots going on, video projects, 3D. haven't had much time to code. But I need to get the new portfolio site up fast and focus on HTML and CSS for now
+
+
+**Link to work:** 
+
+### Day 11: February 25 2022 
 
 **Today's Progress**: 
 progress for the last 3 days: Rebuilt portfolio website in static html and css. Used Marmoset's javascript API to add a 3D model viewer to project pages. Built out css variables for theme control. Created firefox-specific themes for unsupported CSS properties, specifically background-filter.
