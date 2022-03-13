@@ -143,3 +143,17 @@ also need to resolve an issue with nav bar links not stacking correctly on narro
 
 **Link to work:** 
 https://grayxyz.github.io/drewmacstudio
+
+### Day 12: March 8 2022
+**Today's Progress**;
+Continued codecademy full stack course. Still just going through the HTML stuff that I already know. I need to see if I can just take quizzes to skip that stuff. 
+
+Began the slideshow javascript example in the car. But I remembered I need to get Brea's site look- going to try to do that in Adobe XD.
+
+**Thoughts**;
+The codecademy stuff is way beneath me, which is good, but also kind of a waste of time if I can't skip it. The javascript arguments are starting to make more sense, like adding -1 as an argument for the plusSlide() function. plusSlide(-1) calls the same function but adds negative 1 so, yeah, easier than VEX attributes at any rate. But I guess it also makes attributes make some more sense to me. Like it's still declared as a variable but being @pscale is mor edynamic so each point has a dynamic scale value instead of arguments in JS, which, at least in this case, is static. 
+
+Also, I need to be better about posting. I'm on a 7 day streak in Codecademy but I've missed my updates for almost 2 weeks on #100daysofcode.
+
+**Link to work**;
+will link on portfilio site. 
