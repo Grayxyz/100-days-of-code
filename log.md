@@ -157,3 +157,21 @@ Also, I need to be better about posting. I'm on a 7 day streak in Codecademy but
 
 **Link to work**;
 will link on portfilio site. 
+
+### Day 13: March 12 2022 ###
+**Today's Progress**;
+Codecademy lesson on tables in HTML. Does anyone use tables anywhere at all?
+
+**Thoughts**;
+I guess I can't do a quiz to skip this part since I don't know anything about HTML tables. 
+
+### Day 14: March 13 2022 ###
+**Today's Progress**;
+Completed tables project on Codecademy
+**Thoughts**;
+Tables in HTML seem kind of messy now that css grids are a thing. Now that I've done it I'm not sure that it's particularly useful. It's going to require javascript to dynamically rewrite the HTML to make it responsive.
+
+Still, I guess it's clarified the colspan and scope
+
+**Link to work**;
+https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-22-fundamentals-of-html/modules/wdcp-22-learn-html-tables/projects/html-wine-festival-schedule 
