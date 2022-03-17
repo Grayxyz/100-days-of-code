@@ -175,3 +175,11 @@ Still, I guess it's clarified the colspan and scope
 
 **Link to work**;
 https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-22-fundamentals-of-html/modules/wdcp-22-learn-html-tables/projects/html-wine-festival-schedule 
+
+### Day 15: March 16 2022 ###
+**Today's Progress**;
+Finished the codecademy unit on HTML and completed the quiz.
+
+**Thoughts**;
+It waas good actually going through all of the steps in the HTML. There was a lot of stuff that I was already familiar with but also some stuff that was new. The semantic HTML section made a lot more sense. I think it seems a bit overkill but it also makes the content layout a lot more straightforward than just using div tags. Now on to CSS!
+
