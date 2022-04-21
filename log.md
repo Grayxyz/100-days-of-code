@@ -175,3 +175,21 @@ Still, I guess it's clarified the colspan and scope
 
 **Link to work**;
 https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-22-fundamentals-of-html/modules/wdcp-22-learn-html-tables/projects/html-wine-festival-schedule 
+
+### Day 15: March 24 2022 ###
+**Today's progress**;
+Finished CSS box model section on codecademy full stack course. Now 5% complete. Added more components to Brea's website. 
+
+**Thoughts**;
+
+**Link to Work**;
+
+## Day 16: April 15, 2022 ###
+**Today's Progress**
+CSS typography on Codecademy and made a gradient hover animation in CSS on Codepen.
+
+**Thoughts**
+I have coded every day since the last entry but haven't logged it SMH. So staying on the official count.
+
+**Link To Work**
+
