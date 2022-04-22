@@ -193,3 +193,14 @@ I have coded every day since the last entry but haven't logged it SMH. So stayin
 
 **Link To Work**
 
+### Day 17 April 21, 2022 ###
+**Today's Progress**
+Created a style guide template based on the codecademy tutorial. 
+
+**Thoughts**
+I'm tired of HTML and CSS. Time for Javascript already.
+
+**Link to Work**
+https://grayxyz.github.io/styleguide/
+
+
