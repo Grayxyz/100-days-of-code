@@ -203,4 +203,13 @@ I'm tired of HTML and CSS. Time for Javascript already.
 **Link to Work**
 https://grayxyz.github.io/styleguide/
 
+### Day 18 April 22, 2022 ###
+**Today's progress**
+Terminal commands! Learned  some git commands for vs code, like clone url, mkdir, rmdir, rm -rf etc. Also applied terminal commands in an issue outside of coding: removing a locked directory that unwanted app had created.
+**Thoughts**
+usually technical issues are a waste of time but I'm calling this one a learning experience. Some app, either local or mamp, created a folder in my home directory and locked it. And it had files in it that were hidden so that also kept me from deleting it. I finall got rid of it with sudo rm -rf (i think). And so I tried to do more with terminal commands opening this log, but it was out of sync with the master and trying to overwrite the newer, correct copy with an old copy. So I reorganized the whole thing. I deleted the 100 days of code folder, cloned it in a folder dedicated to websites, and ... had to upload it from the other computer again and then rebase it on this machine.  So I could say I wasted 3 hours, or I could call it a "learning experience"
+**Link to work**
+Ahh, no link today
+
+
 
