@@ -203,4 +203,16 @@ I'm tired of HTML and CSS. Time for Javascript already.
 **Link to Work**
 https://grayxyz.github.io/styleguide/
 
+### Day 18 April 23, 2022 ###
+**Today's Progress** 
+Added form styling to Brea Viragh's website, but in the car and offline so it's not working and I'm not sure why yet
+**Thoughts**
+The submit input doesn't take the button style even when I apply the style using classes instead of the button html tag 
+**Link to work**
+https://grayxyz.github.io/Brea_static_site/
+
+### Day ## MONTH ##, 2022 ###
+**Today's Progress** 
+**Thoughts**
+**Link to work**
 
