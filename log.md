@@ -219,6 +219,14 @@ The submit input doesn't take the button style even when I apply the style using
 **Link to work**
 https://grayxyz.github.io/Brea_static_site/
 
+### Day 20 April 28, 2022 ###
+**Today's Progress** 
+so progress for like 4 days since I only missed one day on codecademy. Completed codecademy section on grids. Revised coffee shop html
+**Thoughts**
+quit forgetting to upload progress!
+**Link to work**
+https://github.com/Grayxyz/tea-cozy
+
 ### Day ## MONTH ##, 2022 ###
 **Today's Progress** 
 **Thoughts**
