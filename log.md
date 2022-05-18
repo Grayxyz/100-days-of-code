@@ -227,6 +227,11 @@ quit forgetting to upload progress!
 **Link to work**
 https://github.com/Grayxyz/tea-cozy
 
+### Day 21 May 18 2022 ###
+**Finally completed css and moved on to javascript front end on Codecademy. On 3rd week streak. Changed breaviragh website to use grid layout. Created Tea Cozy** 
+**I'm blaming the new puppy for my failure to update my progress daily. He's cute af and needs training. Also I need to finish Brea's site first so learning is taking a backseat.**
+**https://grayxyz.github.io/Brea_static_site/**
+
 ### Day ## MONTH ##, 2022 ###
 **Today's Progress** 
 **Thoughts**
